@@ -5,6 +5,7 @@ self.addEventListener('install', function(e) {
         '/',
         '/index.html',
         '/manifest.json',
+        '/blog.html',
         '/icons/xoni-icon-192.png',
         '/icons/xoni-icon-512.png'
         // Ide adhatsz még további fájlokat
